@@ -7,7 +7,7 @@ const message = document.getElementById('message');
 const submitBtn = document.getElementById('submitBtn');
 
 // 🔁 Replace this with your real Web App URL from Apps Script
-const scriptURL = "https://script.google.com/macros/s/AKfycbzdOkuo6QTAroCqTr-ckuCSuAN25qlY1k8QKxU8igWeLC1hqWWvbgHzELeAiId_DLS11A/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbz2YZpnc7UhTJ9DykJbGPbVby1kwIjKJ3qgMW-p1O40M5fWQ_mWxjdl57vcWMW35V00DQ/exec";
 
 
 // 🛑 Prevent multiple submissions
